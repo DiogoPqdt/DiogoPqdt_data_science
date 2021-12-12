@@ -18,7 +18,7 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Alguns tutoriais interessantes para estudo:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
