@@ -5,12 +5,11 @@
 </p>
 
 # Diogo Ferreira Expedito - Data Science
-Meu portfólio de projetos de Data Science
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Meu portfólio de projetos de Data Science*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+  Como um cientista de dados experiente e piloto da Força Aérea, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina a problemas reais da Força Aérea Brasileira, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
+  
+  Minhas credenciais incluem um mestrado em Ciência e Tecnologia Espacial pelo Instituto de Tecnologia da Aeronáutica (ITA), uma instituição de ensino superior e pesquisa avançada classificada como uma das melhores e mais prestigiadas escolas de engenharia do Brasil, e um MBA em Gerenciamento de Projetos e Processos da Universidade da Força Aérea (UNIFA).
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
